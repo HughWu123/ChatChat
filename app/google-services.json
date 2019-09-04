@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873042324307",
+    "firebase_url": "https://chatchat-91d72.firebaseio.com",
+    "project_id": "chatchat-91d72",
+    "storage_bucket": "chatchat-91d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873042324307:android:8c82f4d90a4dbb75",
+        "android_client_info": {
+          "package_name": "com.example.hughiscool.chatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873042324307-m7dt2ne0afu5f368cbv1b6hojj2ar9nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hughiscool.chatchat",
+            "certificate_hash": "a80324cb37da72313550ad132cf1352e65ed9d77"
+          }
+        },
+        {
+          "client_id": "873042324307-hmhuern08a4nqihkk5b60d0mb5e93aqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKXGh2-r_YvybdwpSpWDLV0XjOMLyPwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873042324307-hmhuern08a4nqihkk5b60d0mb5e93aqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
