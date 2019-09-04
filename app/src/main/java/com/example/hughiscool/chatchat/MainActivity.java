@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
     public void sendMessage(View view){
         EditText myEditText = findViewById(R.id.editText);
 
-        myDatabase.push().setValue(myEditText.getText());
+        myDatabase.setValue(myEditText.getText().toString());
         myEditText.setText("");
     }
 
